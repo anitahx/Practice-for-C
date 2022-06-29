@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * is a positive, zero or negative?
+ * is @a positive, zero or negative?
  */
 
 int main(int a)
